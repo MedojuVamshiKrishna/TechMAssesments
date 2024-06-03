@@ -18,28 +18,28 @@ Then call the "matchAndSort" method and write logic in main method to print the 
 
 ## Input
 
-    1
-    jio
-    430
-    1.32
-    mumbai
-    2
-    idea
-    320
-    2.26
-    mumbai
-    3
-    airtel
-    500
-    2.54
-    mumbai
-    4
-    vodafone
-    640
-    3.21
-    mumbai
-    mumbai
-    3.4
+1
+jio
+430
+1.32
+mumbai
+2
+idea
+320
+2.26
+mumbai
+3
+airtel
+500
+2.54
+mumbai
+4
+vodafone
+640
+3.21
+mumbai
+mumbai
+3.4
 
 ## Output
 

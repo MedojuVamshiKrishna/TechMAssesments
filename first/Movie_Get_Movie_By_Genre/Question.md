@@ -17,23 +17,23 @@ Then call the "getMovieByGenre" method and write logic in main method to print "
 
 ## Input
 
-    aaa
-    Marvel
-    Action
-    250000000
-    bbb
-    Marvel
-    Comedy
-    25000000
-    ccc
-    Marvel
-    Comedy
-    2000000
-    ddd
-    Marvel
-    Action
-    300000000
-    Action
+aaa
+Marvel
+Action
+250000000
+bbb
+Marvel
+Comedy
+25000000
+ccc
+Marvel
+Comedy
+2000000
+ddd
+Marvel
+Action
+300000000
+Action
 
 ## Output
 

@@ -18,33 +18,33 @@ Then call the "transferCircle" method and write logic in main method to print al
 
 ## Input
 
-    1
-    raju
-    130
-    1.32
-    mum
-    2
-    sachin
-    120
-    2.26
-    ahd
-    3
-    ram
-    200
-    2.54
-    kol
-    4
-    shubham
-    640
-    3.21
-    ahd
-    5
-    kalpesh
-    150
-    1.8
-    ahd
-    ahd
-    kol
+1
+raju
+130
+1.32
+mum
+2
+sachin
+120
+2.26
+ahd
+3
+ram
+200
+2.54
+kol
+4
+shubham
+640
+3.21
+ahd
+5
+kalpesh
+150
+1.8
+ahd
+ahd
+kol
 
 ## Output
 

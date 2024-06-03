@@ -38,24 +38,24 @@ Next, read the value for brand and os.
 
 ## Input
 
-    111
-    iOS
-    Apple
-    30000
-    222
-    android
-    Samsung
-    50000
-    333
-    Symbian
-    HTC
-    12000
-    444
-    Paranoid
-    HTC
-    89000
-    Blackberry
-    aNdRoid
+111
+iOS
+Apple
+30000
+222
+android
+Samsung
+50000
+333
+Symbian
+HTC
+12000
+444
+Paranoid
+HTC
+89000
+Blackberry
+aNdRoid
 
 ## Output
 

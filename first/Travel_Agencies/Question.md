@@ -32,28 +32,28 @@ For agencyDetailsForGivenldAndType method -The main method should print the Agen
 
 ## Input
 
-    123
-    A2Z Agency
-    Platinum
-    50000
-    true
-    345
-    SSS Agency
-    Gold
-    30000
-    false
-    987
-    Cox and Kings
-    Diamond
-    40000
-    true
-    888
-    Global Tours
-    Silver
-    20000
-    false
-    987
-    Diamond
+123
+A2Z Agency
+Platinum
+50000
+true
+345
+SSS Agency
+Gold
+30000
+false
+987
+Cox and Kings
+Diamond
+40000
+true
+888
+Global Tours
+Silver
+20000
+false
+987
+Diamond
 
 ## Output
 

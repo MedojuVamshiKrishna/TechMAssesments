@@ -18,27 +18,27 @@ Then call the "findAverageOfRuns" method and write logic in main method to print
 
 ## Input
 
-    100
-    Sachin
-    5
-    150
-    13000
-    101
-    Sehwag
-    4
-    120
-    10000
-    103
-    Dhoni
-    7
-    110
-    7000
-    104
-    Kohli
-    15
-    57
-    4400
-    100
+100
+Sachin
+5
+150
+13000
+101
+Sehwag
+4
+120
+10000
+103
+Dhoni
+7
+110
+7000
+104
+Kohli
+15
+57
+4400
+100
 
 ## Output
 

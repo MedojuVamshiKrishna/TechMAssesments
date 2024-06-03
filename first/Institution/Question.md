@@ -47,28 +47,28 @@ Next, read the value for location and institutionName.
 
 ## Input
 
-    111
-    Amrita
-    5000
-    10000
-    Chennai
-    222
-    Karunya
-    16000
-    20000
-    Coimbatore
-    333
-    AppleTech
-    10000
-    12000
-    Chennai
-    444
-    Aruna
-    6000
-    10000
-    Vellore
-    Chennai
-    Karunya
+111
+Amrita
+5000
+10000
+Chennai
+222
+Karunya
+16000
+20000
+Coimbatore
+333
+AppleTech
+10000
+12000
+Chennai
+444
+Aruna
+6000
+10000
+Vellore
+Chennai
+Karunya
 
 ## Output
 

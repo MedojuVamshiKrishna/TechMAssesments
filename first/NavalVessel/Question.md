@@ -27,28 +27,28 @@ Before calling these static methods in main, use Scanner object to read the valu
 
 ## Input
 
-    111
-    Rojer
-    100
-    100
-    Passenger
-    222
-    Kalam
-    200
-    100
-    Goods
-    333
-    Yashwin
-    400
-    300
-    Army
-    444
-    Thanishwini
-    500
-    500
-    Welfare
-    75
-    Army
+111
+Rojer
+100
+100
+Passenger
+222
+Kalam
+200
+100
+Goods
+333
+Yashwin
+400
+300
+Army
+444
+Thanishwini
+500
+500
+Welfare
+75
+Army
 
 ## Output
 

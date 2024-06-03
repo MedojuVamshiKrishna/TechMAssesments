@@ -30,28 +30,28 @@ Before calling these static methods in main, use Scanner object to read the valu
 
 ## Input
 
-    100
-    Tesla
-    1000
-    500
-    Hills
-    200
-    Ford
-    2000
-    1500
-    Desert
-    300
-    Royce
-    3000
-    1700
-    Hills
-    400
-    Mercedez
-    1000
-    400
-    Desert
-    Desert
-    Mercedez
+100
+Tesla
+1000
+500
+Hills
+200
+Ford
+2000
+1500
+Desert
+300
+Royce
+3000
+1700
+Hills
+400
+Mercedez
+1000
+400
+Desert
+Desert
+Mercedez
 
 ## Output
 

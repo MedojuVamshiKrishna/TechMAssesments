@@ -39,24 +39,24 @@ Please consider the skill value read above as skill parameter for both the stati
 
 ## Input
 
-    101
-    Cricket
-    Basic
-    20
-    102
-    Cricket
-    Intermediate
-    25
-    111
-    Football
-    Intermediate
-    50
-    113
-    BaseBall
-    Advanced
-    100
-    Cricket
-    Intermediate
+101
+Cricket
+Basic
+20
+102
+Cricket
+Intermediate
+25
+111
+Football
+Intermediate
+50
+113
+BaseBall
+Advanced
+100
+Cricket
+Intermediate
 
 ## Output
 
